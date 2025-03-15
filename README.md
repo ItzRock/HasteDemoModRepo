@@ -16,7 +16,7 @@ ExampleMod/
 │  ├─ example_mod.dll
 ├─ v1.0/
 │  ├─ example_mod.dll
-├─ lastest/
+├─ lastest/ (optional)
 │  ├─ example_mod.dll
 ├─ README.md
 
