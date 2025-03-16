@@ -1,0 +1,4 @@
+- 25 levels
+- difficulty increases exponentially
+- void speed increases with difficulty
+- levelsize increases with levelcount
