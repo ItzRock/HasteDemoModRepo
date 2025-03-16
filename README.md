@@ -22,4 +22,4 @@ ExampleMod/
 
 ```
 
-5. Create a pull request.
+5. Create a pull request. (optionally ping me in the Haste server)
