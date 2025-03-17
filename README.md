@@ -1,6 +1,9 @@
 
 # Haste Broken Worlds Demo Mod Repository
 
+## How do I download a single mod?
+Navigate to the mod which you'd like to download and click on the mod's `.dll` file and on the right side of your screen there should be a download icon. If the mod includes assetbundles or other dlls then it may be easier to download each individuially or the whole repository depending how you'd like to do it.
+
 ## How do I add my mod?
 
  1. Fork the repository. (If you press the `.` key you can enter a VS code editor on your web browser and update from there.)
