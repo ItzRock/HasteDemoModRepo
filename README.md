@@ -36,3 +36,6 @@ ExampleMod/
 ```
 
 5. Create a pull request. (optionally ping me in the Haste server @anthony.stai)
+
+## Need more help?
+Come join us in the `#haste-modding` channel in the official [Haste: Broken Worlds community discord server](https://discord.gg/hastebrokenworlds). We're happy to help!
