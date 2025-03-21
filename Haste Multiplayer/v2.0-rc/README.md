@@ -14,7 +14,8 @@
 
 ## Setup the client-Server connection
 - Set your port when launching the server. Those ports must be port forwarded (by default, the config choses 50000).
-- Set the server adress and port in the `HasteMultiplayerConfig.json`.
+- Launch the game once. When in the main menu, close the game.
+- Set the server adress and port in the `HasteMultiplayerConfig.json` file located in the same directory as the mod.
 - The host launches the `HasteMultiplayerServer.py` server. You should see `WebSocket Server started on ws://0.0.0.0:<port>` printed in the console.
 - Launch the game.
 
