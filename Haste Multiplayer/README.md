@@ -3,4 +3,6 @@
 
 ## Notes
 > Instructions are version-specific. Refer to the version's `README.md`.
-> - You will have to install Python and Python's websockets library (for the server). Mod loader may be subject to change.
+> - The host (hosting the python server on their computer) must install Python and Python's websockets library.
+> - The host must port forward the desired ports (by default, the configuration file opens on ports 50000).
+> - Mod loader may be subject to change.
