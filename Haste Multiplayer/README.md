@@ -1,6 +1,6 @@
 # # Haste Multiplayer
 - Latest version is v2.0-rc
-> Uses [MelonLoader](https://melonloader.org/), [Python](https://www.python.org/) and Python's [websocket](https://pypi.org/project/websockets/)
+> Uses [MelonLoader](https://github.com/LavaGang/MelonLoader), [Python](https://www.python.org/) and Python's [websocket](https://pypi.org/project/websockets/)
 
 ## Notes
 > Instructions are version-specific. Refer to the version's `README.md`.
