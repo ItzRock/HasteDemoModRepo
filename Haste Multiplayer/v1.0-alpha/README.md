@@ -7,7 +7,7 @@
 > Dev note : this is the very first mod's release. It is very unstable, and only works in the DemoHub scene. You should not install it if you wish to play the game, as this version is dedicated to testing. You can only play on your local network on ports 50000 (localhost:50000).
 
 ## Installation
-- If MelonLoader isn't installed, install it [here](https://melonloader.org/).
+- If MelonLoader isn't installed, install it [here](https://github.com/LavaGang/MelonLoader).
 - If Python isn't installed, install it [here](https://www.python.org/).
 - Download the `HasteMultiplayerServer.py` server. You can put it anywhere on your disk.
 - Download and put both mod `HasteMultiplayer.dll` and dependency `websocket-sharp.dll` in the `Mods` folder in your game files.
