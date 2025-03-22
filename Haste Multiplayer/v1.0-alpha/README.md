@@ -1,5 +1,5 @@
 # Haste Multiplayer
-> Uses [MelonLoader](https://melonloader.org/)
+> Uses [MelonLoader](https://github.com/LavaGang/MelonLoader)
 
 ## Version notes
 > v1.0-alpha
