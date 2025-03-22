@@ -8,7 +8,7 @@
 
 ## Installation
 - If MelonLoader isn't installed, install it [here](https://github.com/LavaGang/MelonLoader).
-- If Python isn't installed, install it [here](https://www.python.org/).
+- If Python isn't installed, install it [here](https://www.python.org/). Install Python's [websocket library](https://pypi.org/project/websockets/)
 - Download the `HasteMultiplayerServer.py` server. You can put it anywhere on your disk.
 - Download and put both mod `HasteMultiplayer.dll` and dependency `websocket-sharp.dll` in the `Mods` folder in your game files.
 
