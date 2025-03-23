@@ -1,6 +1,9 @@
 
 # Haste Broken Worlds Demo Mod Repository
 
+> [!NOTE]  
+> Haste will include Steam Workshop support on or shortly after release. The mods here only are a temporary spot before the full game releases as the game will have its own built in mod loader.
+
 ## How do I download a single mod?
 Navigate to the mod which you'd like to download and click on the mod's `.dll` file and on the right side of your screen there should be a download icon. If the mod includes assetbundles or other dlls then it may be easier to download each individuially or the whole repository depending how you'd like to do it.
 
@@ -36,6 +39,12 @@ ExampleMod/
 ```
 
 5. Create a pull request. (optionally ping me in the Haste server @anthony.stai)
+
+## Some brief guidelines.
+* Mods uploaded should be BepInEx (unless special permission to use melonloader by Anthony) and `Assembly-CSharp.dll` modifications are absolutely not okay.
+* No obfuscated mods.
+* Please be sure you aren't using other people's copyrighted assets without permission.
+If your unsure please join the official Haste: Broken Worlds Discord server down below.
 
 ## Need more help?
 Come join us in the `#haste-modding` channel in the official [Haste: Broken Worlds community discord server](https://discord.gg/hastebrokenworlds). We're happy to help!
