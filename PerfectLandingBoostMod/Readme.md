@@ -1,0 +1,1 @@
+Item like default Speed boost with each perfect landing. Useful if playing without items. The boost can stack with consecutive perfect landings to reach higher and higher speeds. 
