@@ -1,0 +1,3 @@
+[submodule "TARS"]
+	path = TARS
+	url = https://github.com/Arargd/TARS
