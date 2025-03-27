@@ -1,3 +1,6 @@
 [submodule "TARS"]
 	path = TARS
 	url = https://github.com/Arargd/TARS
+[submodule "NodeToggler/source"]
+	path = NodeToggler/source
+	url = https://github.com/gingerphoenix10/NodeToggler.git
