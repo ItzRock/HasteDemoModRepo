@@ -2,7 +2,7 @@
 # Haste Broken Worlds Demo Mod Repository
 
 > [!NOTE]  
-> Haste will include Steam Workshop support on or shortly after release. The mods here only are a temporary spot before the full game releases as the game will have its own built in mod loader.
+> This for the Demo of Haste. These mods were made before the game launched and probably will not be maintained.
 
 ## How do I download a single mod?
 Navigate to the mod which you'd like to download and click on the mod's `.dll` file and on the right side of your screen there should be a download icon. If the mod includes assetbundles or other dlls then it may be easier to download each individuially or the whole repository depending how you'd like to do it.
